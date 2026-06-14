@@ -7,7 +7,7 @@ module.exports = {
     
     S7: '@aliwontop',
     
-    adminId: '7684184696',
+    adminId: '8763895360',
     
     bot: 'ALI',
     
